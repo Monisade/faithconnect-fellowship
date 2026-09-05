@@ -1,0 +1,9 @@
+{
+  "name": "faithconnect-fellowship",
+  "version": "1.0.0",
+  "description": "A simple Christian fellowship website powered by Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
